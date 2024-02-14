@@ -1,4 +1,4 @@
-# PulgiPerry's 
+# Biometry Face Lock 
 
 ## Integrantes
 - Hernández López Gerardo - 1222100437
